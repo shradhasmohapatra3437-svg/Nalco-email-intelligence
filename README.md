@@ -32,6 +32,8 @@ An AI-powered internal email intelligence system built for **NALCO (National Alu
 ---
 
 ## 📁 Project Structure
+
+```
 nalco-email-intelligence/
 ├── backend/
 │   ├── main.py          # FastAPI app + scheduler
@@ -42,9 +44,10 @@ nalco-email-intelligence/
 │   ├── database.py      # SQLite operations
 │   └── auth.py          # JWT authentication
 └── frontend/
-└── src/
-├── App.js       # Main React dashboard
-└── App.css      # Styling
+    └── src/
+        ├── App.js       # Main React dashboard
+        └── App.css      # Styling
+```
 ## ⚙️ Setup Instructions
 
 ### Prerequisites
